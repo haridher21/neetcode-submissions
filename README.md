@@ -2,7 +2,7 @@
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
-**Currently solving Neetcode 150 | Progress : 42/150 [LLU Cache]**
+**Currently solving Neetcode 150 | Progress : 48/150 [Balanced Tree]**
 
 ---
 
