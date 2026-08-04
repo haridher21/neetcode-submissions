@@ -2,7 +2,7 @@
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
-**Currently solving Neetcode 150 | Progress : 62/150 [kth smallest points to origin]**
+**Currently solving Neetcode 150 | Progress : 64/150 [Task Sched]**
 
 ---
 
